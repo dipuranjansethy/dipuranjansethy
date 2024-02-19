@@ -44,30 +44,26 @@
     <img alt="Redis" src="https://img.shields.io/badge/Redis-darkred?style=for-the-badge&logo=redis&logoColor=white" /> -->
 </p>
 
-## 👨‍💻 My Coding Profiles:
-<p align="left">
-  <a href="https://leetcode.com/Sachin5115/" target="_blank">
-      <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=D14836?" align="center" alt="Leetcode" height=40 />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sachin5115" target="_blank">
-      <img src="https://img.shields.io/badge/Geeksforgeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933" align="center" alt="GeeksForGeeks" height=40 />
-  </a>
-</p>
+
+<!--   <a href="https://leetcode.com/Sachin5115/" target="_blank"> -->
+<!--       <img src="https://img.shields.io/badge/Leetcode-white?style=for-the-badge&logo=leetcode&logoColor=D14836?" align="center" alt="Leetcode" height=40 /> -->
+<!--   </a> -->
+<!--   <a href="https://auth.geeksforgeeks.org/user/sachin5115" target="_blank"> -->
+<!--       <img src="https://img.shields.io/badge/Geeksforgeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933" align="center" alt="GeeksForGeeks" height=40 /> -->
+<!--   </a> -->
+<!-- </p> -->
 
 ## 🌐 Let's Connect:
 
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sachin-kumar-203991224)
-[<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Sachin51151)
-[<img align="top" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/imsachin49)
-[<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sachin.kumar05115@gmail.com)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipuranjan-sethy-345b0a256/)
+[<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DipuranjanSethy)
+[<img align="top" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dipuranjansethy143/)
+[<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dipuranjansethy1432@gmail.com)
 <br><br>
 
-## 📈 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsachin49&theme=blueberry&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact) 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imsachin49&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachin49&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true"" />
-</p>  
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imsachin49&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" />  -->
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachin49&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true"" /> -->
+<!-- </p>   -->
 
-![](https://komarev.com/ghpvc/?username=imsachin49)
+
